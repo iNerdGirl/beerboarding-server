@@ -1,0 +1,2 @@
+## Galvanize NYC Beerboarding Server
+Inspired by our collegues at Galvanize Platte, we here at gNYC decided to make our own version of the popular game Beerboarding. Thanks to gSchool-Platte for the inspiration.
